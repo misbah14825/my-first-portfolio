@@ -104,11 +104,16 @@
 }
 .h2{
     font-size: 40px;
+    height: 120px;
    
     
 }
 .peragraph{
-    text-align: right;
+   ;
+    float: right;
+    padding: 10px;
+    margin-left: 600px;
+    margin-top: 0px;
 }
 
 
